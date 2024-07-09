@@ -1,4 +1,4 @@
-# IITI-SOC-22
+
 Problem Statement: Supply Chain Forecasting<br />
 
 Technical Report
